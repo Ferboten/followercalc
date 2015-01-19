@@ -1,0 +1,6 @@
+High Maul Raid (Kargath Brackenspore Imperator),100,645,Plains,8,0,3,Wild Aggression;Deadly Minions;Danger Zones;Powerful Spell;Deadly Minions;Timed Battle
+High Maul Raid (Butcher Ko'ragh Imperator),100,645,Ogre,8,0,3,Massive Strike;Timed Battle;Minion Swarms;Magic Debuff;Deadly Minions;Timed Battle
+High Maul Raid (Tectus Twin Ogron Ko'ragh),100,645,Breaker,8,0,3,Wild Aggression;Group Damage;Group Damage;Danger Zones;Minion Swarms;Magic Debuff
+High Maul Raid (Kargath Butcher Brackenspore),100,645,Swamp,8,0,3,Wild Aggression;Deadly Minions;Massive Strike;Timed Battle;Danger Zones;Powerful Spell
+Rocks Fall. Everyone Dies.,100,0,Plains,23,0,3,Powerful Spell;Danger Zones;Group Damage;Group Damage;Massive Strike;Deadly Minions
+Beyond the Pale,100,0,Underground,23,0,3,Minion Swarms;Group Damage;Massive Strike;Group Damage;Massive Strike;Deadly Minions

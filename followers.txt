@@ -1,0 +1,43 @@
+Leeroy Jenkins,Human,100,655,Minion Swarms;Powerful Spell,Economist;Epic Mount;Talonslayer
+Talonpriest Ishaal,Arakkoa,100,655,Magic Debuff;Minion Swarms,Primalslayer;Plainsrunner
+Aeda Brightdawn,Blood Elf,100,655,Timed Battle;Timed Battle,Ogreslayer;Guerilla Fighter
+Kaz the Shrieker,Orc,100,655,Deadly Minions;Minion Swarms,Elvenkind;Economist;Scavenger
+Olin Umberhide,Tauren,100,655,Wild Aggression;Massive Strike,Voodoo Zealot;Naturalist;Jewelcrafting
+Lantresor of the Blade,Orc,100,655,Danger Zones;Wild Aggression,Beastslayer;Child of Draenor;Mining
+Kimzee Pinchwhistle,Goblin,100,655,Danger Zones;Powerful Spell,Beastslayer;Engineering;Plainsrunner
+Morketh Bladehowl,Orc,100,655,Massive Strike;Powerful Spell,High Stamina;Furyslayer;Guerilla Fighter
+Leorajh,Saberon,100,655,Group Damage;Powerful Spell,Brew Aficionado;Death Fascination
+Lokra,Orc,100,655,Danger Zones;Timed Battle,Child of Draenor;Epic Mount;Orcslayer
+Pleasure-Bot 8000,Mechanical,100,622,Timed Battle,Tailoring;Scavenger
+Tormmok,Ogre,100,655,Wild Aggression;Minion Swarms,Orcslayer;Epic Mount
+Gronnstalker Rokash,Orc,100,655,Deadly Minions;Minion Swarms,Jewelcrafting;Elvenkind;Demonslayer
+Ulna Thresher,Undead,100,655,Magic Debuff;Minion Swarms,Gronnslayer;Talonslayer
+Millhouse Manastorm,Gnome,100,655,Deadly Minions;Danger Zones,Skinning;Totemist;Beastslayer
+Shadow Hunter Rala,Troll,100,655,Timed Battle,Herbalism;Totemist;Marshwalker
+Mulverick,Orc,100,655,Powerful Spell,Alchemy
+Tipa Rimehorn,Tauren,100,655,Minion Swarms;Magic Debuff,Scavenger;Naturalist;Voodoo Zealot
+Vivianne,Undead,100,655,Minion Swarms;Timed Battle,Epic Mount;Voodoo Zealot
+Croman,Human,100,655,Massive Strike;Minion Swarms,Economist;Furyslayer;Voodoo Zealot
+Soulbinder Tuulani,Draenei,100,655,Group Damage;Deadly Minions,Brew Aficionado;Orcslayer;Wastelander
+Ka'la,Orc,100,655,Massive Strike;Danger Zones,Leatherworking;Plainsrunner;Guerilla Fighter
+Ken-Ken,Hozen,100,655,Timed Battle;Powerful Spell,Death Fascination;Brew Aficionado
+Gakkiz Blusterblast,Goblin,100,655,Deadly Minions,Blacksmithing;Burst of Power
+Abu'gar,Troll,100,655,Wild Aggression;Powerful Spell,Wastelander;Death Fascination;Voidslayer
+Karg Bloodfury,Orc,100,655,Powerful Spell;Minion Swarms,Cave Dweller;Furyslayer;Demonslayer
+Ahm,Draenei,100,655,Danger Zones;Minion Swarms,Enchanting;Guerilla Fighter;Primalslayer
+Alexi Barov,Undead,100,655,Danger Zones;Powerful Spell,Inscription;Cave Dweller;Demonslayer
+Benjamin Gibb,Undead,100,655,Minion Swarms;Timed Battle,Inscription;Economist;Mountaineer
+Goldmane the Skinning,Saberon,100,655,Danger Zones,Skinning
+Image of Archmage Vargoth,Human,100,655,Powerful Spell;Timed Battle,Voodoo Zealot;Cave Dweller;Child of Draenor
+Weaponsmith Na'Shra,Orc,100,655,Timed Battle,Blacksmithing
+Penny Clobberbottom,Goblin,100,655,Massive Strike;Minion Swarms,Mountaineer;Demonslayer;Epic Mount
+Taela Shatterborne,Blood Elf,100,655,Massive Strike;Timed Battle,Scavenger;Gronnslayer;Talonslayer
+Meatball,Gnoll,100,655,Timed Battle;Danger Zones,Totemist;Marshwalker
+Robin Fredericksen,Undead,100,655,Group Damage;Magic Debuff,Scavenger;Death Fascination;Epic Mount
+Muaha Stonehide,Tauren,100,655,Deadly Minions;Wild Aggression,Scavenger;Talonslayer;Burst of Power
+Rizei Stormhoof,Tauren,100,655,Danger Zones;Deadly Minions,Scavenger;Furyslayer;Child of Draenor
+Pikake,Troll,100,655,Group Damage;Deadly Minions,Scavenger;Elvenkind;Plainsrunner
+Su'tila,Troll,100,655,Group Damage;Magic Debuff,Scavenger;Child of Draenor;Ogreslayer
+Dagg,Ogre,100,655,Deadly Minions,Child of Draenor;Elvenkind
+Phylarch the Evergreen,Botani,100,655,Deadly Minions,Evergreen;Wastelander
+Blook,Ogron,100,655,Timed Battle;Danger Zones,Combat Experience;Elvenkind;Cave Dweller
